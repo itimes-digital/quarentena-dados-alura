@@ -1,2 +1,2 @@
 # quarentena-dados-alura
-estudo de data-science Alura &amp; DataHackers
+Treinamento em data-science pela Alura &amp; DataHackers
